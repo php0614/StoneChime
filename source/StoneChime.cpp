@@ -1,6 +1,6 @@
 
 //Generating 2d east asian stone chime instruments like Mesh model, procedually made variations
-//from Korean PyeonGyeong to Chiniese Bianqing
+//from Korean PyeonGyeong to Chinese Bianqing
 //by Philip Liu, 2016
 
 #include "StoneChime.h"

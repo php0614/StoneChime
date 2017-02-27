@@ -64,7 +64,7 @@ shapes.push_back(*getShape2(0, p, pArr.size()));
 pArr.clear();
 
     
-    //Manually made fragment mesh model of the first stone chime instrument above
+    //Manually make fragment mesh models of the first stone chime instrument
     
 int drawCoords[] = {0,-6,0,-4,0,-2,0,0,0,2,0,4,0,6,
                    2,-6,4,-6,6,-8,4,-8,2,-8,2,-4, 2,-6,4,-4,2,2,4,0,4,2,4,4,4,6,4,-2,

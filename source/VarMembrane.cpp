@@ -1,4 +1,4 @@
-//Modification of Membrane.cpp by Alex McLean (c) 2008, included in the Membrane UGen in SC3Plugins
+//Modification of Membrane.cpp by Alex McLean (c) 2008
 
 #include <stdio.h>
 #include <stdlib.h>

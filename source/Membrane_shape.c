@@ -1,4 +1,4 @@
-//Modification of Membrane_shape.c by Alex McLean (c) 2008 
+//Reference: Membrane_shape.c by Alex McLean (c) 2008 
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,6 +1,6 @@
 
-//Mesh models of 2D east asian stone chime instruments, procedually made variations
-//from Korean PyeonGyeong to Chinese Bianqing
+//procedurally made 2D models of angled stone chimes, which resembles Korea's Pyeongyeong, China's Bianqing 
+//and more angled version of Pyeongyeong.
 //by Philip Liu, 2016
 
 #include "StoneChime.h"

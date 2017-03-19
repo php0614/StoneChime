@@ -1,5 +1,5 @@
 
-//Generating 2d east asian stone chime instruments like Mesh model, procedually made variations
+//Mesh models of 2D east asian stone chime instruments, procedually made variations
 //from Korean PyeonGyeong to Chinese Bianqing
 //by Philip Liu, 2016
 

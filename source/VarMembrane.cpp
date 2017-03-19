@@ -1,4 +1,4 @@
-//Modification of Membrane.cpp by Alex McLean (c) 2008
+//Reference: Membrane.cpp by Alex McLean (c) 2008
 
 #include <stdio.h>
 #include <stdlib.h>
